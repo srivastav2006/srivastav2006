@@ -36,6 +36,8 @@ breaking patterns, and building solutions that actually make an impact.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black.svg?style=flat&logo=JSON%20web%20tokens)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 ### Tools & Package Managers  
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
@@ -48,13 +50,12 @@ breaking patterns, and building solutions that actually make an impact.
 ### Databases  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
 ### Networking & Security  
 ![Scapy](https://img.shields.io/badge/Scapy-%2300599C.svg?style=flat&logo=python&logoColor=white)
 
 ---
-
-
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivastav2006&show_icons=true&theme=tokyonight)  
@@ -70,4 +71,3 @@ breaking patterns, and building solutions that actually make an impact.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=srivastav2006&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
